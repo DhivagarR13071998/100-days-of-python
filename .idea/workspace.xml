@@ -5,32 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a740a36-cd57-442e-bf44-657bfd2dbb73" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Band Name Generator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Band Name Generator Project/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Inputs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Inputs/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Variable Naming/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Variable Naming/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/Variables/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/Variables/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/task/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/task/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/task/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 1/task/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Data Types/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Data Types/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Data Types/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Data Types/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Mathematical Operations/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Mathematical Operations/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Mathematical Operations/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Mathematical Operations/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Number Manipulation/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Number Manipulation/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Number Manipulation/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Number Manipulation/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Tip Calculator Project/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Type Error, Checking and Conversion/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/If Else/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/If Else/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/If Else/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/If Else/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Modulo/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Modulo/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
