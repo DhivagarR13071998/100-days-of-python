@@ -1,5 +1,6 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
+    <description>Virtualenv Environment</description>
     <option name="myName" value="Default" />
     <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myValues">
