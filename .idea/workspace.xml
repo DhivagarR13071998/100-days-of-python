@@ -5,13 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a740a36-cd57-442e-bf44-657bfd2dbb73" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/Homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/If Else/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/If Else/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Logical Operators/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Logical Operators/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Modulo/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Modulo/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Nesting and Elif/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Python Pizza/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,6 +109,7 @@
     <setting file="file://$PROJECT_DIR$/Day 3/Python Pizza/task.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 3/Python Pizza/tests/__init__.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 3/Python Pizza/tests/test_task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Treasure Island Project/Homework.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 3/Treasure Island Project/solution.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 4/Banker Roulette/solution.py" root0="FORCE_HIGHLIGHTING" />
@@ -136,7 +158,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2ytodTaBc2zgEaQUmpPoZ4q0JOt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -145,6 +169,8 @@
   "keyToString": {
     "Edu.LearningObjectsStorageType": "SQLite",
     "Edu.Yaml.Migrate": "true",
+    "Python tests.Unittests in test_task.py.executor": "Run",
+    "Python.Homework.executor": "Run",
     "Python.task.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
