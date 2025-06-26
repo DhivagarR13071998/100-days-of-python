@@ -15,11 +15,5 @@ files:
   - name: solution.py
     visible: true
     learner_created: false
-  - name: Homework.py
-    visible: true
-    learner_created: true
-status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 25 Jun 2025 06:59:06 UTC"
+status: Unchecked
 record: -1
