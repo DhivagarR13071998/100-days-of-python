@@ -5,22 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a740a36-cd57-442e-bf44-657bfd2dbb73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/Homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 4/Random Module/My_module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/If Else/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/If Else/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Logical Operators/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Logical Operators/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Logical Operators/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Modulo/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Modulo/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Multiple Ifs/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Nesting and Elif/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Nesting and Elif/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Python Pizza/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Python Pizza/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 3/Treasure Island Project/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/IndexError/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Lists/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Lists/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Random Module/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/For Loops/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/For Loops/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/For Loops/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/For Loops/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Highest Score/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Highest Score/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 5/Highest Score/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/Highest Score/task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +120,7 @@
     <setting file="file://$PROJECT_DIR$/Day 4/IndexError/task.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 4/Lists/solution.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 4/Lists/task.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 4/Random Module/My_module.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 4/Random Module/solution.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 4/Random Module/task.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Day 4/Rock Paper Scissors/solution.py" root0="FORCE_HIGHLIGHTING" />
@@ -174,7 +177,7 @@
     "Python.task.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/dr207/PycharmProjects/Python Testing/100-days-of-python",
+    "last_opened_file_path": "C:/Users/dr207/PycharmProjects/Python Testing/pythonProject",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
